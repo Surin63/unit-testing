@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 public class CalcTest {
     @Test
-    @DisplayName("Test souctu dvou ciesl")
+    @DisplayName("Test souctu dvou cisel")
     public void testScitani() {
         int actual = Calc.scitani(2,3);
         int expected = 5;
